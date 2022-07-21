@@ -1,0 +1,10 @@
+image:
+  file: .gitpod/Dockerfile
+
+tasks: []
+
+vscode:
+  extensions:
+    - donjayamanne.githistory
+    - EditorConfig.EditorConfig
+    - ms-python.python
